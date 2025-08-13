@@ -9,9 +9,8 @@ This repository is designed to build **strong DSA + problem-solving foundations*
 
 | # | Topic                                                              | Description | Problems |
 |---|--------------------------------------------------------------------|-------------|----------|
-| 1 | [Arrays](src/main/java/com/ashu/problemsolving/arrays/README.md)   | One-dimensional, multi-dimensional arrays, and advanced manipulations | XX |
-| 2 | [Strings](src/main/java/com/ashu/problemsolving/strings/README.md) | String manipulation, pattern matching, advanced algorithms | XX |
-| 3 | [OOP](src/main/java/com/ashu/problemsolving/OOP/README.md)          | Object-oriented principles, design patterns | XX |
+| 1 | [Arrays](src/main/java/com/ashu/problemsolving/16-arrays-and-multidimensional-arrays/README.md)   | One-dimensional, multi-dimensional arrays, and advanced manipulations | XX |
+| 2 | [Strings](src/main/java/com/ashu/problemsolving/15-strings-and-stringbuilder/README.md) | String manipulation, pattern matching, advanced algorithms | XX |
 
 ---
 
