@@ -1,3 +1,4 @@
+package com.ashu.problemsolving.java_basics_and_syntax_01;
 /**
  * ------------------------------------------------------------
  * Title: Calculate Annual Employee Bonus
@@ -28,8 +29,6 @@
  *   systems.
  * ------------------------------------------------------------
  */
-
-package com.ashu.problemsolving.java_basics_and_syntax_01;
 
 public class CalculateEmployeeBonus {
     public static void main(String[] args) {
